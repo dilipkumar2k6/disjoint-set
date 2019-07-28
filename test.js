@@ -1,8 +1,3 @@
-# disjoint-set
-DisjointSet data structure in Javascript. For more details please watch https://www.youtube.com/watch?v=ID00PMy0-vE
-
-# Use
-```
 const DisjoinSet = require('./DisjointSet');
 
 const ds = new DisjoinSet();
@@ -28,4 +23,3 @@ console.log(ds.findSet(4));
 console.log(ds.findSet(5));
 console.log(ds.findSet(6));
 console.log(ds.findSet(7));
-```
