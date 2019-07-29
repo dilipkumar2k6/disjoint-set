@@ -40,13 +40,9 @@ class DisjointSet {
         return node.parent; // Return optimized path compression based parent
     }
     union(data1, data2) {
-        // Get node details
-        const node1 = this.map.get(data1);
-        const node2 = this.map.get(data2);
-
         // Get parent 
-        const parent1 = this._findSet(node1);
-        const parent2 = this._findSet(node2);
+        const parent1 = this.findSet(data1);
+        const parent2 = this.findSet(data2);
 
         // If both nodes are part of same set then do nothing
         if(parent1 === parent2) {
