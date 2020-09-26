@@ -13,3 +13,6 @@ https://leetcode.com/problems/redundant-connection/
 
 ## Smallest String With Swaps
 https://leetcode.com/problems/smallest-string-with-swaps/
+
+## Min Cost to Connect All Points
+https://leetcode.com/problems/min-cost-to-connect-all-points/
