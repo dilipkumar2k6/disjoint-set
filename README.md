@@ -10,3 +10,6 @@ https://leetcode.com/problems/number-of-connected-components-in-an-undirected-gr
 
 ## Redundant Connection
 https://leetcode.com/problems/redundant-connection/
+
+## Smallest String With Swaps
+https://leetcode.com/problems/smallest-string-with-swaps/
