@@ -13,5 +13,7 @@ https://leetcode.com/problems/smallest-string-with-swaps/
 # Min Cost to Connect All Points
 https://leetcode.com/problems/min-cost-to-connect-all-points/
 
+# Merge accounts
+https://leetcode.com/problems/accounts-merge/
 # Reference
 https://www.youtube.com/watch?v=ID00PMy0-vE
